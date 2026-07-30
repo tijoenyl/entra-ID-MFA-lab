@@ -1,8 +1,6 @@
 # Entra ID MFA Security Lab
 
-A cloud identity administration lab built in a Microsoft Entra ID tenant. Working the way an MSP would on day one with a new client, I provisioned users into role-based security groups, assigned licenses, enforced multi-factor authentication through Conditional Access, enabled self-service password reset, stood up an emergency break-glass admin account, and delegated helpdesk permissions using least privilege — then validated that the permission boundaries actually hold, and closed the project with a full compromised-account incident response.
-
-This is the cloud-identity companion to my [on-prem Active Directory helpdesk lab](https://github.com/tijoenyl/helpdesk-simulation-lab).
+The point of my Microsoft Azure Entra ID MFA security lab project is to showcase my proficiency in cloud identity administration using Microsoft Entra ID. Using an Entra ID tenant, I created and secured a set of user accounts the way an MSP would on day one: provisioning users into role-based security groups, assigning licenses, enforcing multi-factor authentication through Conditional Access, enabling self-service password reset, standing up an emergency break-glass admin account, and delegating helpdesk permissions using least privilege.
 
 ## Tenant and Users
 
